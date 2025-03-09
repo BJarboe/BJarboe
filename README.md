@@ -1,4 +1,4 @@
-# My GitHub Portfolio
+# My Junior Dev Portfolio
 Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring solutions in web development, automation and scripting, software tools, and more. Here you'll find a curated selection of projects that highlight my skills and interests.
 - [Freelance/Personal Projects](#freelancepersonal-projects)
   - [Full Stack Text-To-Image Generator](#full-stack-text-to-image-generator)
