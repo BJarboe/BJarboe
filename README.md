@@ -25,7 +25,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 ---
 ### AI-Powered Resume Optimizer
 
-**Folder:** [Resume-inator/](https://github.com/BJarboe/PortfolioRepo/tree/main/Resume-inator)  
+**Repo:** [Resume-inator/](https://github.com/BJarboe/PortfolioRepo/tree/main/Resume-inator)  
 **Description:** Developed an AI-based CLI tool that customizes resumes to align with specific job descriptions, leveraging GPT-4o via OpenAI's API. The system analyzes the applicant's original resume and relevant details, then tailors content to enhance relevance for each application.
 **Tools/Technologies:**
 - Python
@@ -36,7 +36,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 
 ### Media Scraper Server Pipeline
 
-**Folder:** [MTB](https://github.com/BJarboe/mtb)
+**Repo:** [MTB](https://github.com/BJarboe/mtb)
 **Description:** Developed a software wrapper that scrapes user-specified media via url and pipes it directly to a server.
 **Tools/Technologies:**
 - Python
@@ -47,7 +47,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 
 ### Unity Game Jam Project
 
-**Folder:** [596FinalGame](https://github.com/BJarboe/596FinalGame)
+**Repo:** [596FinalGame](https://github.com/BJarboe/596FinalGame)
 **Description:** Contributed development to a Unity 3D horror game complete with unique parkour-based player-movement mechanics, a state-based AI enemy, scripted events and cutscenes, currated developer tools and management scripts, and original GUI/menu designs.
 **Tools/Technologies:**
 
