@@ -26,7 +26,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 ### AI-Powered Resume Optimizer
 
 **Repo:** [Resume-inator/](https://github.com/BJarboe/PortfolioRepo/tree/main/Resume-inator)  
-**Description:** Developed an AI-based CLI tool that customizes resumes to align with specific job descriptions, leveraging GPT-4o via OpenAI's API. The system analyzes the applicant's original resume and relevant details, then tailors content to enhance relevance for each application.
+**Description:** Developed an AI-based CLI tool that customizes resumes to align with specific job descriptions, leveraging GPT-4o via OpenAI's API. The system analyzes the applicant's original resume and relevant details, then tailors content to enhance relevance for each application. \
 **Tools/Technologies:**
 - Python
 - File organization and conversion
