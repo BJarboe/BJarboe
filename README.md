@@ -1,7 +1,8 @@
-# My Junior Dev Portfolio
+# My Dev Portfolio
 Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring solutions in web development, automation and scripting, software tools, and more. Here you'll find a curated selection of projects that highlight my skills and interests.
 - [Freelance/Personal Projects](#freelancepersonal-projects)
   - [Full Stack Text-To-Image Generator](#full-stack-text-to-image-generator)
+  - [Process Scheduler](#process-scheduler)
   - [AI Resume Optimizer](#ai-powered-resume-optimizer)
   - [Media Scraper Server Pipeline](#media-scraper-server-pipeline)
   - [Unity Game](#unity-game-jam-project)
@@ -21,6 +22,14 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 - OpenAI API
 - RESTful APIs
 - Thunder Client
+
+---
+### Process Scheduler
+**Repo:** [Scheduler](https://github.com/BJarboe/Scheduler)  
+**Description:** Developed a C++ program that emulates an process scheduler, demonstrating knowledge in operating systems and different scheduling strategies.
+**Tools/Technologies:**
+- C/C++
+- Make/G++
 
 ---
 ### AI-Powered Resume Optimizer
