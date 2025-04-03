@@ -1,6 +1,7 @@
 # My Dev Portfolio
 Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring solutions in web development, automation and scripting, software tools, and more. Here you'll find a curated selection of projects that highlight my skills and interests.
 - [Freelance/Personal Projects](#freelancepersonal-projects)
+  - [HTTP Server](#http-server)
   - [Full Stack Text-To-Image Generator](#full-stack-text-to-image-generator)
   - [Process Scheduler](#process-scheduler)
   - [AI Resume Optimizer](#ai-powered-resume-optimizer)
@@ -12,6 +13,17 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 ---
 
 ##  Freelance/Personal Projects
+
+### HTTP server
+**Repo:** [http-server](https://github.com/BJarboe/http-server/)  
+**Description:** Implemented an HTTP server in C for handling GET and POST requests, showcasing skills in network programming and concepts, socket programming, and systems programming.
+**Tools/Technologies:**
+- C
+- Make/GCC
+- Linux Socket API
+- curl/7.81.0
+
+---
 
 ### Full Stack Text-To-Image Generator
 **Repo:** [ai-image-generator](https://github.com/BJarboe/ai-image-generator/)  
