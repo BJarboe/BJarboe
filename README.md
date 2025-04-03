@@ -26,7 +26,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 ---
 ### Process Scheduler
 **Repo:** [Scheduler](https://github.com/BJarboe/Scheduler)  
-**Description:** Developed a C++ program that emulates an process scheduler, demonstrating knowledge in operating systems and different scheduling strategies.
+**Description:** Developed a C++ program that emulates a process scheduler, demonstrating knowledge in operating systems and different scheduling strategies.
 **Tools/Technologies:**
 - C/C++
 - Make/G++
