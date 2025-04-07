@@ -69,7 +69,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 ### Unity Game Jam Project
 
 **Repo:** [596FinalGame](https://github.com/BJarboe/596FinalGame)
-**Description:** Contributed development to a Unity 3D horror game complete with unique parkour-based player-movement mechanics, a state-based AI enemy, scripted events and cutscenes, currated developer tools and management scripts, and original GUI/menu designs.
+**Description:** Contributed development to a Unity 3D horror game complete with unique parkour-based player-movement mechanics, a state-based AI enemy, scripted events and cutscenes, currated developer tools and management scripts, and original GUI/menu designs. \
 **Tools/Technologies:**
 
 - Unity Engine
