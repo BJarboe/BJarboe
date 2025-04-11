@@ -16,7 +16,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 
 ### HTTP server
 **Repo:** [http-server](https://github.com/BJarboe/http-server/)  
-**Description:** Implemented an HTTP server in C for handling GET and POST requests, showcasing skills in network programming and concepts, socket programming, and systems programming.
+**Description:** Implemented an HTTP server in C for handling GET and POST requests, showcasing skills in network programming and concepts, socket programming, and systems programming. \
 **Tools/Technologies:**
 - C
 - Make/GCC
@@ -27,7 +27,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 
 ### Full Stack Text-To-Image Generator
 **Repo:** [ai-image-generator](https://github.com/BJarboe/ai-image-generator/)  
-**Description:** Developed a Full Stack Web Application utilizing OpenAI's DALL-E 3 for image generation, highlighting proficiency in frontend and backend development, API integration, asynchronous programming, state management, and error handling, while demonstrating the creation of a responsive UI and effective server-client communication.
+**Description:** Developed a Full Stack Web Application utilizing OpenAI's DALL-E 3 for image generation, highlighting proficiency in frontend and backend development, API integration, asynchronous programming, state management, and error handling, while demonstrating the creation of a responsive UI and effective server-client communication. \
 **Tools/Technologies:**
 - Vanilla Javascript/HTML/CSS Frontend
 - Node/Express.js Backend
@@ -58,7 +58,7 @@ Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring so
 ### Media Scraper Server Pipeline
 
 **Repo:** [MTB](https://github.com/BJarboe/mtb)
-**Description:** Developed a software wrapper that scrapes user-specified media via url and pipes it directly to a server.
+**Description:** Developed a software wrapper that scrapes user-specified media via url and pipes it directly to a server. \
 **Tools/Technologies:**
 - Python
 - YT-DLP API
