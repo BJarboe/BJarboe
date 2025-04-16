@@ -1,5 +1,5 @@
-# My Dev Portfolio
-Hi! I'm Bryce, a motivated software developer. I enjoy creating and exploring solutions in web development, automation and scripting, software tools, and more. Here you'll find a curated selection of projects that highlight my skills and interests.
+# Bryce Jarboe | Software Developer
+Hi! I'm Bryce, a dev with experience in system administration, server virtualization and deployment, and Unity/C# development.  Below are my various projects I've worked on - ranging from full stack applications with javascript, to socket programming with C/Linux.
 - [Freelance/Personal Projects](#freelancepersonal-projects)
   - [HTTP Server](#http-server)
   - [Full Stack Text-To-Image Generator](#full-stack-text-to-image-generator)
