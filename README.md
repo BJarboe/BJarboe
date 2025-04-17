@@ -6,10 +6,9 @@ Hi! I'm Bryce, a dev with experience in system administration, server virtualiza
   - [Process Scheduler](#process-scheduler)
   - [AI Resume Optimizer](#ai-powered-resume-optimizer)
   - [Media Scraper Server Pipeline](#media-scraper-server-pipeline)
-  - [Unity Game](#unity-game-jam-project)
-- [Contact](#contact)
-
-
+- [Work Experience](#work-experience)
+  - [System Administrator](#system-administrator)
+  - [Senior Unity Project Lead](#senior-unity-project-lead)
 ---
 
 ##  Freelance/Personal Projects
@@ -66,18 +65,31 @@ Hi! I'm Bryce, a dev with experience in system administration, server virtualiza
 
 ---
 
-### Unity Game Jam Project
+## Work Experience
+<a name="senior-unity-project-lead"></a>
+### [Senior Unity Project Lead C# Developer](https://github.com/BJarboe/596FinalGame) 
+- Collaborated with a team of 5 to design and develop a first-person physics-based horror game within a 5 week game jam, focusing on rapid iteration and teamwork.
+- Designed and implemented a localized C# API, providing other developers custom debugging  tools  and  easy/readable  game-state  manager  function  calls  without
+- additional script integration or compatibility issues.
+- Scripted physics-based interactions utilizing Unity's libraries and engine tools.
+- Wrote coroutines for event-handling and smooth load-state transitions.
+- Created custom shaders in HLSL and materials to improve visual fidelity.
+- Developed an interactive UI to incorporate stamina and objective progress.
+- Implemented state-machine AI for enemy behavior and player-interaction.
+- Exercised  CI/CD  approach  by  regularly  pushing  to  a  Git  repo,  preventing  merge conflicts and ensuring smooth collaborative development.
+---
 
-**Repo:** [596FinalGame](https://github.com/BJarboe/596FinalGame)
-**Description:** Contributed development to a Unity 3D horror game complete with unique parkour-based player-movement mechanics, a state-based AI enemy, scripted events and cutscenes, currated developer tools and management scripts, and original GUI/menu designs. \
-**Tools/Technologies:**
-
-- Unity Engine
-- C# Scripting, Coroutines
-- Game Design, Multimedia Production
+### System Administrator 
+- Deployed and managed hybrid multi-OS server cluster.
+- Virtualized server instances with VMWare to prepare for physical deployment.
+- Configured and maintained network services/infrastructure – DNS, NFS, Git, LDAP.
+- Automated system operations with Shell scripting and cronjobs.
+- Configured a dedicated FreeBSD mail server to export generated logs.
+- Exported routine system logs via dedicated mail server for performance analysis.
+- Configured Azure cloud VM to offload scalable software and version-control functionalities with GitLab to conserve server resources.
+- Troubleshot, documented, and resolved technical issues in a live environment.
+- Secured access control through SSH configured with key-based authentication and automated SSH-agents.
+- Generated virtual machine images and exported them to prepped server hardware after passing automated testing.
 
 ---
 
-## Contact
-
-Feel free to reach out if you'd like to discuss any of these projects or if you're interested in collaborating. You can find me on [LinkedIn](https://www.linkedin.com/in/bryce-jarboe) or email me at [brycejwork@gmail.com](mailto:brycejwork@gmail.com).
