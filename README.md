@@ -7,8 +7,8 @@ Hi! I'm Bryce, a dev with experience in system administration, server virtualiza
   - [AI Resume Optimizer](#ai-powered-resume-optimizer)
   - [Media Scraper Server Pipeline](#media-scraper-server-pipeline)
 - [Work Experience](#work-experience)
-  - [System Administrator](#system-administrator)
   - [Senior Unity Project Lead](#senior-unity-project-lead)
+  - [System Administrator](#system-administrator)
 ---
 
 ##  Freelance/Personal Projects
