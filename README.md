@@ -1,17 +1,42 @@
 # Bryce Jarboe | Software Developer
 Hi! I'm Bryce, a dev with experience in system administration, server virtualization and deployment, and Unity/C# development.  Below are my various projects I've worked on - ranging from full stack applications with javascript, to socket programming with C/Linux.
-- [Freelance/Personal Projects](#freelancepersonal-projects)
+- [Projects](#projects)
+  - [Senior Unity Project Lead](#senior-unity-project-lead)
+  - [System Administrator](#system-administrator)
   - [HTTP Server](#http-server)
   - [Full Stack Text-To-Image Generator](#full-stack-text-to-image-generator)
   - [Process Scheduler](#process-scheduler)
   - [AI Resume Optimizer](#ai-powered-resume-optimizer)
   - [Media Scraper Server Pipeline](#media-scraper-server-pipeline)
-- [Work Experience](#work-experience)
-  - [Senior Unity Project Lead](#senior-unity-project-lead)
-  - [System Administrator](#system-administrator)
 ---
 
-##  Freelance/Personal Projects
+##  Projects
+<a name="senior-unity-project-lead"></a>
+### [Senior Unity Project Lead C# Developer](https://github.com/BJarboe/596FinalGame) 
+- Collaborated with a team of 5 to design and develop a first-person physics-based horror game within a 5 week game jam, focusing on rapid iteration and teamwork.
+- Designed and implemented a localized C# API, providing other developers custom debugging  tools  and  easy/readable  game-state  manager  function  calls  without
+- additional script integration or compatibility issues.
+- Scripted physics-based interactions utilizing Unity's libraries and engine tools.
+- Wrote coroutines for event-handling and smooth load-state transitions.
+- Created custom shaders in HLSL and materials to improve visual fidelity.
+- Developed an interactive UI to incorporate stamina and objective progress.
+- Implemented state-machine AI for enemy behavior and player-interaction.
+- Exercised  CI/CD  approach  by  regularly  pushing  to  a  Git  repo,  preventing  merge conflicts and ensuring smooth collaborative development.
+---
+
+### System Administrator 
+- Deployed and managed hybrid multi-OS server cluster.
+- Virtualized server instances with VMWare to prepare for physical deployment.
+- Configured and maintained network services/infrastructure – DNS, NFS, Git, LDAP.
+- Automated system operations with Shell scripting and cronjobs.
+- Configured a dedicated FreeBSD mail server to export generated logs.
+- Exported routine system logs via dedicated mail server for performance analysis.
+- Configured Azure cloud VM to offload scalable software and version-control functionalities with GitLab to conserve server resources.
+- Troubleshot, documented, and resolved technical issues in a live environment.
+- Secured access control through SSH configured with key-based authentication and automated SSH-agents.
+- Generated virtual machine images and exported them to prepped server hardware after passing automated testing.
+
+---
 
 ### HTTP server
 **Repo:** [http-server](https://github.com/BJarboe/http-server/)  
@@ -62,34 +87,6 @@ Hi! I'm Bryce, a dev with experience in system administration, server virtualiza
 - Python
 - YT-DLP API
 - Discord API
-
----
-
-## Work Experience
-<a name="senior-unity-project-lead"></a>
-### [Senior Unity Project Lead C# Developer](https://github.com/BJarboe/596FinalGame) 
-- Collaborated with a team of 5 to design and develop a first-person physics-based horror game within a 5 week game jam, focusing on rapid iteration and teamwork.
-- Designed and implemented a localized C# API, providing other developers custom debugging  tools  and  easy/readable  game-state  manager  function  calls  without
-- additional script integration or compatibility issues.
-- Scripted physics-based interactions utilizing Unity's libraries and engine tools.
-- Wrote coroutines for event-handling and smooth load-state transitions.
-- Created custom shaders in HLSL and materials to improve visual fidelity.
-- Developed an interactive UI to incorporate stamina and objective progress.
-- Implemented state-machine AI for enemy behavior and player-interaction.
-- Exercised  CI/CD  approach  by  regularly  pushing  to  a  Git  repo,  preventing  merge conflicts and ensuring smooth collaborative development.
----
-
-### System Administrator 
-- Deployed and managed hybrid multi-OS server cluster.
-- Virtualized server instances with VMWare to prepare for physical deployment.
-- Configured and maintained network services/infrastructure – DNS, NFS, Git, LDAP.
-- Automated system operations with Shell scripting and cronjobs.
-- Configured a dedicated FreeBSD mail server to export generated logs.
-- Exported routine system logs via dedicated mail server for performance analysis.
-- Configured Azure cloud VM to offload scalable software and version-control functionalities with GitLab to conserve server resources.
-- Troubleshot, documented, and resolved technical issues in a live environment.
-- Secured access control through SSH configured with key-based authentication and automated SSH-agents.
-- Generated virtual machine images and exported them to prepped server hardware after passing automated testing.
 
 ---
 
