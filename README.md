@@ -1,4 +1,3 @@
-# Bryce Jarboe | Software Developer
 Hi! I'm Bryce, a dev with experience in system administration, server virtualization and deployment, and Unity/C# development.  Below are my various projects I've worked on - ranging from full stack applications with javascript, to socket programming with C/Linux.
 - [Projects](#projects)
   - [Senior Unity Project Lead](#senior-unity-project-lead)
